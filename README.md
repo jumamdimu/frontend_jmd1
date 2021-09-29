@@ -7,11 +7,12 @@ Project Description: Login Front End Project
 
 ## Built With
 React
-	A JavaScript library for building user interfaces
-React extensions:
-	Tailwind CSS: a utility first CSS framework. 
-	Redux: an open-source JavaScript library for managing and centralizing application state. Used with React for building user interfaces.
-	Axios: HTTP client library that allows to make requests to a given endpoint
+Visual Studio Code
+Node.js
+React.js
+JSX
+ES6
+SCSS
 
 # Getting Started with Create React App
 
