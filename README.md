@@ -4,15 +4,55 @@
 ## About The Project
 Project Name: frontend_jmd1
 Project Description: Login Front End Project
+^The App consists of 2 key files, the login and the Dashboard file
+User cannot access the Dashboard file unless successfully logged in
+
 
 ## Built With
+## basic tools
 React
 Visual Studio Code
 Node.js
 React.js
-JSX
-ES6
-SCSS
+
+## Getting Started
+To get a local copy up and running follow these simple example steps.
+
+## install npm
+npm install npm@latest -g
+
+## Install Tailwind and its peer-dependencies using npm:
+npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+
+## Form validation with React Hook Form
+Installing React Hook Form only takes a single command and you're ready to roll.
+npm install react-hook-form
+
+## App created by 
+npx create-react-app APP-NAME
+
+## Run the app by executing the following command
+npm start
+
+## The app uses Axios is an HTTP client library to make requests to a given endpoint:
+Using npm: npm install react-axios
+install the required peer dependancies if you have not already done so:
+npm install axios
+npm install prop-types
+
+## install React Router
+npm install react-router-dom
+React Router is a standard library for routing in React
+Using React Router The app render the login page on any route so that users can login to the application before redirected to a new page.
+
+
+## The app uses Redux library for managing and centralizing application state. 
+# install with NPM
+npm install redux
+
+## Create a React Redux App
+## The recommended way to start new apps with React and Redux
+npx create-react-app my-app --template redux
 
 # Getting Started with Create React App
 
