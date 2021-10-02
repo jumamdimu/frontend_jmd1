@@ -4,8 +4,8 @@
 ## About The Project
 Project Name: frontend_jmd1
 Project Description: Login Front End Project
-^The App consists of 2 key files, the login and the Dashboard file
-User cannot access the Dashboard file unless successfully logged in
+>The App consists of 2 key files, the login and the Dashboard file
+>User cannot access the Dashboard file unless successfully logged in
 
 
 ## Built With
